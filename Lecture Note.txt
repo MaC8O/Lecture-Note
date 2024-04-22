@@ -1,0 +1,5 @@
+Developement of effective error messages. 
+About recommendation for error message. 
+About the display design.
+Not to show a user just error 404. Give any an advice to figure it out about the error
+The computer should not use "I" letter. 
